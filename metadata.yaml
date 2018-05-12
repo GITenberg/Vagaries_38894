@@ -1,0 +1,31 @@
+_repo: Vagaries_38894
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Munthe, Axel
+    alias: Munthe, Axel Martin Fredrik
+    birthdate: 1857
+    deathdate: 1949
+    gutenberg_agent_id: '39701'
+    url: http://www.gutenberg.org/2009/agents/39701
+description: ''
+gutenberg_issued: '2012-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+tableOfContents: Toys -- For those who love music -- Political agitations in Capri
+  -- Menagerie -- Italy in Paris -- Blackcock-shooting -- To ---- -- Monsieur Alfredo
+  -- Mont Blanc, king of the mountains -- Raffaella -- The dogs in Capri, an interior
+  -- Zoology -- Hypochondria -- La Madonna del Buon Cammino.
+title: Vagaries
+url: http://www.gutenberg.org/ebooks/38894
